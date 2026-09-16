@@ -40,6 +40,14 @@
 
 ---
 
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=ArafathBaig&theme=flat&row=1&column=6&margin-w=8&margin-h=8&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -49,6 +57,18 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArafathBaig&theme=default&hide_border=true&background=FFFFFF00&ring=087F5B&fire=087F5B&currStreakLabel=087F5B&sideLabels=343A40&currStreakNum=343A40&sideNums=343A40&dates=343A40" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArafathBaig/ArafathBaig/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArafathBaig/ArafathBaig/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ArafathBaig/ArafathBaig/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -65,4 +85,8 @@
   <a href="https://www.hackerrank.com/profile/arafath_baig99" target="_blank">
     <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="40" alt="HackerRank" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArafathBaig&color=087f5b&style=flat&label=Profile+Views" alt="Profile views" />
 </p>
