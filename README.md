@@ -40,14 +40,6 @@
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=ArafathBaig&theme=flat&row=1&column=6&margin-w=8&margin-h=8&no-bg=true" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
