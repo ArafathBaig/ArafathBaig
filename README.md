@@ -43,7 +43,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArafathBaig&show_icons=true&theme=transparent&title_color=087F5B&icon_color=087F5B&text_color=343A40&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArafathBaig&layout=compact&theme=transparent&title_color=087F5B&text_color=343A40&hide_border=true" alt="Top Languages" />
 </p>
 
